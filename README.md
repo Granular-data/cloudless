@@ -1,3 +1,20 @@
+# Granular modifications
+
+## src/resnet_model/play_planet_cloudless.ipynb
+
+Generate 64x64 patches and create train and test set.
+
+## src/resnet_model/resnet50.py
+
+Train a resnet50 model to detect cloud. Accuracy obtained is 95%.
+
+## src/resnet_model/read_lmdb.py
+
+Read leveldb dataset from planet labs.
+
+
+---------------------------------------------------
+
 # Introduction
 
 
